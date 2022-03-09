@@ -1,0 +1,8 @@
+main.c:60:6:displayNum	16	static
+main.c:228:7:separarNum	24	static
+main.c:241:8:calcVr	24	static
+main.c:251:5:main	16	static
+main.c:310:6:SystemClock_Config	96	static
+main.c:355:13:MX_ADC1_Init	24	static
+main.c:412:13:MX_GPIO_Init	56	static
+main.c:483:6:Error_Handler	8	static,ignoring_inline_asm
