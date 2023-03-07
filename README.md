@@ -1,4 +1,4 @@
-# hackathon-regga-me
+# Hackathon Regga-me
 
-smart plant desenvolvida no STM32
-projeto usado no 1° Hackathon da PADOLabs
+SmartPlant desenvolvida em STM32  
+Projeto usado no 1° Hackathon da PADOLabs
